@@ -1,0 +1,14 @@
+@import 'sass-bootstrap/lib/bootstrap';
+
+.hero-unit {
+    margin: 50px auto 0 auto;
+    width: 400px;
+}
+
+#content { 
+	margin-top: 100px;
+
+	h1 { text-align: center; }
+
+	th{cursor:pointer}
+}
